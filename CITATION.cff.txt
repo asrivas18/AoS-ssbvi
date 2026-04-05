@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Pairwise U-Statistics for Heavy-Tailed Inference"
+type: software
+authors:
+  - family-names: "Srivastav"
+    given-names: "Sudesh K."
+    affiliation: "Department of Biostatistics and Data Science, Tulane University"
+    email: "ssrivast@tulane.edu"
+  - family-names: "Srivastav"
+    given-names: "Apurv"
+    affiliation: "University of Delaware"
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
+license: "MIT"
+version: "1.0.0"
+date-released: 2026-03-30
+preferred-citation:
+  type: article
+  title: "PROJECTION-DRIVEN SHARP MOMENT THRESHOLDS FOR PAIRWISE
+		U-STATISTICS: ASYMPTOTIC NORMALITY AND BOOTSTRAP FAILURE"
+  authors:
+    - family-names: "Srivastav"
+      given-names: "Sudesh K."
+    - family-names: "Srivastav"
+      given-names: "Apurv"
+  year: 2026
+  journal: "Working paper / manuscript"

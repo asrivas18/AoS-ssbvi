@@ -1,0 +1,58 @@
+# R session files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Project file
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Figures and generated outputs
+results/*.png
+results/*.pdf
+results/*.csv
+results/*.rds
+results/*.RData
+
+# Keep README or placeholder files in results/
+!results/README.md
+!results/.gitkeep
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Quarto / knitr cache
+*_cache/
+*.utf8.md
+*.knit.md
+
+# Misc
+*.swp
